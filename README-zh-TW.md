@@ -381,6 +381,8 @@
     * 負載平衡
     * 資料庫複寫
     * 資料庫分割
+    
+http://ninefu.github.io/blog/Harvard_CS75_Notes/
 
 ### 第二步：複習關於可擴展性的文章
 
